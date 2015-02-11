@@ -1,2 +1,2 @@
 # R5-4.4-kernel-source
-OPPO R5
+LNX.LA.3.7.3.c2-03200-8939.0
